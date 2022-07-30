@@ -1,0 +1,168 @@
+.bg-primary {
+    background-color: #00bfa6 !important;
+  }
+  .btn-primary {
+    background-color: #00bfa6 !important;
+    border-color: #00bfa6 !important;
+  }
+  .text-primary {
+    color: #00bfa6 !important;
+  }
+  .btn-info {
+    background-color: transparent !important;
+    border: 2px solid #fff;
+  }
+
+  .text-alert {
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  .btn-login {
+    width: 100%;
+  }
+
+  input {
+    border: 1px solid #00bfa6 !important;
+    text-align: center;
+    color: #00bfa6 !important;
+  }
+
+  ::placeholder {
+    /* Firefox, Chrome, Opera */
+    color: #00bfa6 !important;
+  }
+
+  :-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #00bfa6 !important;
+  }
+
+  ::-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: #00bfa6 !important;
+  }
+  @media (min-width: 320px) and (max-width: 767px) {
+    .content {
+      margin: 30px 0 0 0;
+      width: 100%;
+      border: 1px solid #00bfa6;
+    }
+
+    .card-body {
+      height: 220px;
+    }
+  }
+
+  @media (min-width: 768px) and (max-width: 1023px) {
+    body {
+      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-2-1.png);
+    }
+    .body {
+      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-1-1.png);
+      height: 500px;
+      background-size: 450px;
+      background-position-y: -50px;
+      background-position-x: -50px;
+      background-repeat: no-repeat;
+    }
+    .content {
+      margin: 100px 0 0 340px;
+      width: 50%;
+      border: 1px solid #00bfa6;
+    }
+
+    .card-body {
+      height: 220px;
+    }
+  }
+
+  @media (min-width: 1024px) and (max-width: 1199px) {
+    body {
+      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-2-1.png);
+    }
+    .body {
+      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-1-1.png);
+      height: 500px;
+      background-size: 500px;
+      background-position-y: -50px;
+      background-position-x: 40px;
+      background-repeat: no-repeat;
+    }
+    .content {
+      margin: 100px 0 0 500px;
+      width: 40%;
+      border: 1px solid #00bfa6;
+    }
+
+    .card-body {
+      height: 250px;
+    }
+  }
+  @media (min-width: 1200px) and (max-width: 1540px) {
+    body {
+      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-2-1.png);
+      background-repeat: no-repeat;
+      background-position-y: 30px;
+    }
+    .body {
+      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-1-1.png);
+      height: 500px;
+      background-size: 600px;
+      background-position-y: -60px;
+      background-position-x: -20px;
+      background-repeat: no-repeat;
+    }
+    .content {
+      margin: 100px 0 0 580px;
+      width: 40%;
+      border: 1px solid #00bfa6;
+    }
+
+    .card-title {
+      margin-bottom: 20px !important;
+      margin-top: 10px !important;
+    }
+
+    .card-body {
+      height: 250px;
+    }
+
+    .input-contet {
+      margin-bottom: 10px;
+    }
+  }
+  @media (min-width: 1541px) and (max-width: 2560px) {
+    body {
+      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-2-1.png);
+      background-repeat: no-repeat;
+      background-size: 2560px;
+      background-position-y: 380px;
+    }
+    .body {
+      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-1-1.png);
+      height: 500px;
+      background-size: 800px;
+      background-position-y: -80px;
+      background-position-x: -90px;
+      background-repeat: no-repeat;
+    }
+    .content {
+      margin: 100px 0 0 630px;
+      width: 50%;
+      border: 1px solid #00bfa6;
+    }
+
+    .card-title {
+      margin-bottom: 20px !important;
+      margin-top: 10px !important;
+    }
+
+    .card-body {
+      height: 250px;
+    }
+
+    .input-contet {
+      margin-bottom: 10px;
+    }
+  }
