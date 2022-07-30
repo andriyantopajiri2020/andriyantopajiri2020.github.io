@@ -56,10 +56,10 @@
 
   @media (min-width: 768px) and (max-width: 1023px) {
     body {
-      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-2-1.png);
+      background-image: url(https://andriyantopajiri2020.github.io/bg-2.png);
     }
     .body {
-      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-1-1.png);
+      background-image: url(https://andriyantopajiri2020.github.io/bg-1.png);
       height: 500px;
       background-size: 450px;
       background-position-y: -50px;
@@ -79,10 +79,10 @@
 
   @media (min-width: 1024px) and (max-width: 1199px) {
     body {
-      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-2-1.png);
+      background-image: url(https://andriyantopajiri2020.github.io/bg-2.png);
     }
     .body {
-      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-1-1.png);
+      background-image: url(https://andriyantopajiri2020.github.io/bg-1.png);
       height: 500px;
       background-size: 500px;
       background-position-y: -50px;
@@ -101,12 +101,12 @@
   }
   @media (min-width: 1200px) and (max-width: 1540px) {
     body {
-      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-2-1.png);
+      background-image: url(https://andriyantopajiri2020.github.io/bg-2.png);
       background-repeat: no-repeat;
       background-position-y: 30px;
     }
     .body {
-      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-1-1.png);
+      background-image: url(https://andriyantopajiri2020.github.io/bg-1.png);
       height: 500px;
       background-size: 600px;
       background-position-y: -60px;
@@ -134,13 +134,13 @@
   }
   @media (min-width: 1541px) and (max-width: 2560px) {
     body {
-      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-2-1.png);
+      background-image: url(https://andriyantopajiri2020.github.io/bg-2.png);
       background-repeat: no-repeat;
       background-size: 2560px;
       background-position-y: 380px;
     }
     .body {
-      background-image: url(https://andriyantopajiri.files.wordpress.com/2022/07/bg-1-1.png);
+      background-image: url(https://andriyantopajiri2020.github.io/bg-1.png);
       height: 500px;
       background-size: 800px;
       background-position-y: -80px;
