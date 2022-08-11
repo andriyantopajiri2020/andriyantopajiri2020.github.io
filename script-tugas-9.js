@@ -1,8 +1,8 @@
-$("#total").val('Rp. ' + 0);
+$("#total").text('Rp. ' + 0);
 
         function cekClassActive(id) {
             const div = element = document.getElementById(id);
-            var cek = div.classList.contains('active');
+            var cek = div.classList.contains('checkOut');
             if (cek) {
                 return true;
             } else {
